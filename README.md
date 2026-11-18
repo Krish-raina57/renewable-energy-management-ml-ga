@@ -2,7 +2,6 @@
 
 An academic implementation of a forecasting-informed Energy Management System (EMS), combining solar photovoltaic (PV) generation forecasting, electricity-demand modelling, Genetic Algorithm (GA) scheduling experiments, and Mixed Integer Linear Programming (MILP).
 
-> **Reproducibility note:** Metrics below are transcribed from the saved outputs in the original notebook. They have not been independently rerun as part of this documentation pack. Dataset-derived charts in `results/figures/` are generated directly from the two CSV files supplied with the project.
 
 ## Project at a glance
 
